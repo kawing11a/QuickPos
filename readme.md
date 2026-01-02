@@ -75,7 +75,11 @@
 | **2Checkout** | 🌐 Global | ✅ Active |
 | **İyzico** | 🇹🇷 Turkey | ✅ Active |
 | **PayTR** | 🇹🇷 Turkey | ✅ Active |
+| **PayTR EFT** | 🇹🇷 Turkey | ✅ Active |
+| **PayWant** | 🇹🇷 Turkey | ✅ Active |
+| **PaynKolay** | 🇹🇷 Turkey | ✅ Active |
 | **Shopier** | 🇹🇷 Turkey | ✅ Active |
+| **Shopier Card** | 🇹🇷 Turkey | ✅ Active |
 | **Papara** | 🇹🇷 Turkey | ✅ Active |
 | **EsnekPos** | 🇹🇷 Turkey | ✅ Active |
 | **Paydisini** | 🇹🇷 Turkey | ✅ Active |
