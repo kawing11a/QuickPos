@@ -1,6 +1,6 @@
 {
   "name": "quickpos",
-  "version": "1.0.919",
+  "version": "1.0.920",
   "main": "app.js",
   "scripts": {
     "test": "node test.js"
